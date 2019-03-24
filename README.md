@@ -33,7 +33,7 @@ __申请认证你可以得到：__
 公益服务器的认证由[公益宣言服务器认证组织(NPSCO)](https://github.com/Nonprofit-Minecraft/Documents/blob/master/Instruction_.md)负责。
 
 __这些服务器已取得认证：__
-* [示例服务器](https://nonprofit-minecraft.org/)
+* [梦幻国度](https://jq.qq.com/?_wv=1027&k=5NZn3uT)
 
 
 -----
