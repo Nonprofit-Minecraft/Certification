@@ -35,6 +35,7 @@ __申请认证你可以得到：__
 __这些服务器已取得认证：__
 * [梦幻国度](https://jq.qq.com/?_wv=1027&k=5NZn3uT)
 * [OurWorld](https://jq.qq.com/?_wv=1027&k=5MZ4UDf)
+* [HelloMC](https://www.hellomc.co/)
 
 
 -----
