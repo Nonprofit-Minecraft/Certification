@@ -40,6 +40,7 @@ __这些服务器已取得认证：__
 * [私立⑨学院](https://jq.qq.com/?_wv=1027&k=56NtXzi)
 * [WhiteG 白鲸物语](https://www.mcmod.cn/play/sv/20181618.html)
 * [NaturalWorld](http://mi-an.top/)
+* [时忆（Timory）](https://www.mcshiyi.com/)
 
 -----
 
