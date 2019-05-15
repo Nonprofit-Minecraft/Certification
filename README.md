@@ -41,6 +41,8 @@ __这些服务器已取得认证：__
 * [WhiteG 白鲸物语](https://www.mcmod.cn/play/sv/20181618.html)
 * [NaturalWorld](http://mi-an.top/)
 * [时忆（Timory）](https://www.mcshiyi.com/)
+* [mem囧TZ](https://bbs.memotz.com/)
+* [SakuraFall 桜落坊](http://www.mcbbs.net/forum.php?mod=viewthread&tid=665417)
 
 -----
 
